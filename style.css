@@ -1,24 +1,23 @@
-body{
-    background-color: #BA5510;
-    text-align: center;
+body {
+  background-color: #ba5510;
+  text-align: center;
 }
-h1{
-    font-size: 40px;
+h1 {
+  font-size: 40px;
 }
-p{
-    font-size: 24px;
-    
+p {
+  font-size: 24px;
 }
-#email{
-        font-size: 24px;
-        margin: 0;
-    }
-a{
-    font-size: 20px;
-    margin: 0 20px; 
-    cursor: pointer;
-    color: rgb(14, 81, 14);
+#email {
+  font-size: 24px;
+  margin: 0;
 }
-img{
-    margin-bottom: 30px;
+a {
+  font-size: 20px;
+  margin: 0 20px;
+  cursor: pointer;
+  color: rgb(14, 81, 14);
+}
+img {
+  margin-bottom: 30px;
 }
